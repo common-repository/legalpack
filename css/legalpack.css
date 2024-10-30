@@ -1,0 +1,28 @@
+.legalpack-footer {
+    display:block;
+    width:100%;
+}
+
+.legalpack-footer a:hover {
+    text-decoration: underline;
+}
+
+#legalpack-top-fixed-container {
+    position:fixed;
+    top:0;
+    width:100%;
+}
+
+#legalpack-bottom-fixed-container {
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+
+#legalpack-top-static-container {
+    width:100%;
+}
+
+#legalpack-bottom-static-container {
+    width:100%;
+}

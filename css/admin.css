@@ -1,0 +1,78 @@
+.inline-row-action-summary {
+    display: block;
+    width: 100% !important;
+}
+
+#legal-page-create-selector {
+    display: none;
+}
+#legal-page-submit {
+    display: none;
+}
+#legal-page-create-selector ul {
+    list-style-type: none;
+}
+
+ul.legal-pages-form-checkbox-group,
+ul.legal-pages-form-radio {
+    list-style-type: none;
+}
+
+.legalpack-options-box {
+    width: 300px;
+    height: 180px;
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+    border-radius:6px;
+    float:left;
+    margin:1em 1em 0 0!important;
+    background: none;
+}
+
+.legalpack-options-box h3{
+    padding: 8px 12px;
+    margin: 0;
+}
+
+.legalpack-options-box .inside{
+    padding: 0 12px;
+}
+
+.legalpack-options-box .box-status {
+    color: #000;
+}
+.legalpack-options-box .box-status.enabled {
+    color: green;
+}
+.legalpack-options-box .box-status.disabled {
+    color: #888;
+}
+
+.legalpack-box-enable-button{
+    position: absolute;
+    bottom: 8px;
+    left: 12px;
+}
+
+.legalpack-box-configure-button{
+    position: absolute;
+    bottom: 8px;
+    right: 12px;
+}
+
+.legalpack-box-page-submit {
+    float:left;
+}
+
+.legalpack-box-page-back {
+    float:left;
+    padding: 5px 0 0 20px
+}
+
+.legalpack-hidden {
+    display:none;
+}
+
+.legalpack-options-select-combo .inside {
+    padding:4px;
+}
